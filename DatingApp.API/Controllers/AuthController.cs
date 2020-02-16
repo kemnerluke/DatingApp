@@ -54,7 +54,6 @@ namespace DatingApp.API.Controllers
         public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
         {
 
-                       throw new Exception("Computer says nooo");
 
 
 
